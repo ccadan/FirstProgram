@@ -1,7 +1,7 @@
 import requests
 import simplejson as json
 
-apikey = '4f1c339796eb02df869c4fa723f04d5b3c2a6503'
+apikey = '[Your_Key]'
 
 url = "https://www.giantbomb.com/api/search/?api_key=%s" % apikey
 
